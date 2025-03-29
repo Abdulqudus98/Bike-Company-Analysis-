@@ -19,9 +19,13 @@ The dataset consists of transactional sales records, including:
   5. Date of purchase
 
 Data Cleaning & Preprocessing: Handling missing values and structuring data for analysis.
+
 Exploratory Data Analysis (EDA): Identifying key trends in sales and revenue.
-Feature Engineering: Creating YearMonth for trend analysis.
+
+Feature Engineering: Creating YearMonth for trend analysis
+
 Visualization: Using Matplotlib and Seaborn to display trends and insights.
+
 Statistical & Trend Analysis: Understanding seasonal variations and revenue patterns.
 
 ##  Notebooks/ - Jupyter Notebook with the full data analysis workflow.
@@ -32,13 +36,9 @@ Statistical & Trend Analysis: Understanding seasonal variations and revenue patt
 
 ## Key Insights from the Analysis
 Revenue Trends: Identified the best-performing Years in terms of sales.
-
 Top-Selling Countries: Highlighted which countries drive the highest revenue.
-
 Product Profitability: Determined which bikes generate the most profit.
-
 Seasonal Trends: Found fluctuations in sales across different periods of the year.
-
 Price vs Revenue Impact: Analyzed how product pricing affects revenue.
 
 ## Technologies Used
