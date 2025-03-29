@@ -24,17 +24,21 @@ Feature Engineering: Creating YearMonth for trend analysis.
 Visualization: Using Matplotlib and Seaborn to display trends and insights.
 Statistical & Trend Analysis: Understanding seasonal variations and revenue patterns.
 
-##📓 Notebooks/ - Jupyter Notebook with the full data analysis workflow.
+##  Notebooks/ - Jupyter Notebook with the full data analysis workflow.
 
-##📊 Visualizations/ - Graphs and insights from the dataset.
+##  Visualizations/ - Graphs and insights from the dataset.
 
-##📑 Reports/ - Summary of findings and key insights.
+## Reports/ - Summary of findings and key insights.
 
 ## Key Insights from the Analysis
 Revenue Trends: Identified the best-performing Years in terms of sales.
+
 Top-Selling Countries: Highlighted which countries drive the highest revenue.
+
 Product Profitability: Determined which bikes generate the most profit.
+
 Seasonal Trends: Found fluctuations in sales across different periods of the year.
+
 Price vs Revenue Impact: Analyzed how product pricing affects revenue.
 
 ## Technologies Used
